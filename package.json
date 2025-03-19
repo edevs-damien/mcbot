@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mineflayer": "^4.26.0",
+    "prompt-sync": "^4.2.0"
   }
 }
